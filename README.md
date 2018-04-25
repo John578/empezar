@@ -1,2 +1,2 @@
 # empezar
-Platform OS first repo here
+Platform OS first repository here
